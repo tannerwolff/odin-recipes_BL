@@ -15,4 +15,4 @@ PB&J photo credits:
 [PB&J](https://unsplash.com/photos/bread-on-white-platter-1i1zPbkQJNg)
 
 Lasagna photo credits:
-[Lasagna] (https://unsplash.com/photos/a-white-plate-topped-with-lasagna-covered-in-sauce-flEUTTwGlJQ)
+[Lasagna](https://unsplash.com/photos/a-white-plate-topped-with-lasagna-covered-in-sauce-flEUTTwGlJQ)
