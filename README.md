@@ -7,3 +7,6 @@ This website is going to feature a knowledge of basic HTML and how to structure 
 **Credits**
 Pizza photo credits:
 [Pesto Pizza](https://unsplash.com/photos/pizza-with-green-leaves-and-red-sauce-XtLPfib7OuM)
+
+PB&J photo credits:
+[PB&J](https://unsplash.com/photos/bread-on-white-platter-1i1zPbkQJNg)
