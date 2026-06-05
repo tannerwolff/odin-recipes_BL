@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f5fcff;
+}
+
+h1 {
+  margin: 42px;
+  text-align: center;
+  color: #3a5985;
+}
+
+.homepage-nav {
+  text-align: center;
+}
+.nav {
+  display: block;
+  text-decoration: none;
+  color: #00989b;
+  text-align: center;
+}
+.nav:hover {
+  text-decoration: none;
+  color: #053c5b;
+}
