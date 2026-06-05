@@ -19,8 +19,31 @@ h1 {
   text-decoration: none;
   color: #00989b;
   text-align: center;
+  margin-bottom: 12px;
 }
 .nav:hover {
   text-decoration: none;
   color: #053c5b;
+}
+
+.photo-container {
+  text-align: center;
+  margin-bottom: 30px;
+}
+img {
+  border-radius: 30px;
+}
+
+.photo-container p {
+  color: #053c5b;
+}
+
+.lower-info {
+  color: #053c5b;
+  margin: 50px;
+}
+
+.lower-info h2,
+.lower-info h3 {
+  margin: 20px;
 }
